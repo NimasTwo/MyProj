@@ -8,6 +8,6 @@
          "secondNat": "Y2EtYXBwLXB1Yi03NDc3NjcyMjkyNjIwNDQ5LzcxMDUxMzUwNjA=",
          "sit": "false",
          "nchig": "false",
-         "port": "TCP"
+         "port": "UDP"
     }
 }
