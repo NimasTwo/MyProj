@@ -1,0 +1,13 @@
+{
+   "adsConfig": {
+         "active": "true",
+         "id": "Y2EtYXBwLXB1Yi03NDc3NjcyMjkyNjIwNDQ5fjMwODA4MTY0OTI=",
+         "firstInt": "Y2EtYXBwLXB1Yi03NDc3NjcyMjkyNjIwNDQ5LzU4MTQ3OTEwNDY=",
+         "secondInt": "Y2EtYXBwLXB1Yi03NDc3NjcyMjkyNjIwNDQ5LzUzNDkzNTc3MzQ=",
+         "firstNat": "Y2EtYXBwLXB1Yi03NDc3NjcyMjkyNjIwNDQ5LzMxMTY2MzI5ODM=",
+         "secondNat": "Y2EtYXBwLXB1Yi03NDc3NjcyMjkyNjIwNDQ5LzcxMDUxMzUwNjA=",
+         "sit": "false",
+         "nchig": "false",
+         "port": "UDP"
+    }
+}
